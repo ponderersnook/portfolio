@@ -1,26 +1,26 @@
 ## ~ It's just a season ~
-This feeling is just a season 
-of growing and falling 
-to think and to reason 
-To seed and bloom again.  
+<p>This feeling is just a season <br> 
+of growing and falling <br>
+to think and to reason <br>
+To seed and bloom again.</p>  
 
-We are not glass 
-a museum piece 
-or an art.  
-To be enshrined in its beauty 
-if torn, then forever lost 
-these pieces never to be whole again.  
+<p>We are not glass <br>
+a museum piece <br>
+or an art.  <br>
+To be enshrined in its beauty <br>
+if torn, then forever lost <br>
+these pieces never to be whole again. </p>  
 
-We are that flower 
-that softly ever blooms 
-a beauty, if torn, can grow 
-we are nature 
-that withers and blooms 
-falling only to sprout again.  
+<p>We are that flower <br>
+that softly ever blooms <br>
+a beauty, if torn, can grow <br>
+we are nature <br>
+that withers and blooms <br>
+falling only to sprout again.</p>  
 
-I know this wilting is just a season 
-like moon in the waning 
-and this dark is just a turning 
-I can wait until it's spring again. 
+<p>I know this wilting is just a season <br>
+like moon in the waning <br>
+and this dark is just a turning <br>
+I can wait until it's spring again. </p>
 
 _Sakshi Shrivastava_

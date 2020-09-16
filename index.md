@@ -1,4 +1,4 @@
-###### [PROJECTS](projects.md)    [BLOG](blog.md)
+###### [PROJECTS](projects.md)  &nbsp;  [BLOG](blog.md)
 
 ## Hi, I am Sakshi
 

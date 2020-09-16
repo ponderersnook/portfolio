@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Hi, I am Sakshi
 
-You can use the [editor on GitHub](https://github.com/ponderersnook/ponderersnook_portfolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to this corner of the world wide web. In process of building a portfolio website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project stuff:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+##### BTech Project: [Laser Propulsion of Nanosat to Low Earth Orbit] (https://github.com/ponderersnook/BTP) 
+An attempt to integrate control theory to existing laser propulsion literature. 
 ```
+```markdown
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Embedded Systems Design: Bluetooth Control Pick and Place Robot
+Using ATMega32 microcontroller we interfaced motors, motor driver and bluetooth to control the robotic arm able to pick up and place objects. One motor of 300 rpm was used to control the up - down and open - close motion of the arm, other motor was used to roll the arm forwards - backwards and left - right. The commands were given through an android app to the bluetooth receiver. Technologies: C, ATMega32, Robokits.
 
-### Jekyll Themes
+```
+```markdown
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponderersnook/ponderersnook_portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Computer Organization: 8 bits MIPS Processor
+The processor was RISC based, 5 stage, pipelined architecture with 28 instructions having 3 addressing formats. It included Fetch block, Decode block, Execution Block consisting of ALU, Data Memory Block, WriteBack and Clock control Block. It contained a total of 28 different instructions including arithmetic and logical operations, unconditional and conditional jumps and memory instructions (load/store). This processor was implemented on a Xilinx Spartan 3E FPGA. Technologies: Verilog HDL, Xilinx ISE.
+```
+```markdown
 
-### Support or Contact
+##### Digital Logic Design: 32 bit ALU
+• 32 bit ALU made on Xilinx using verilog, which could perform basic arithmetic and logical operations using 4 bit opcode. The ALU consisted of blocks such as logical block, comparator block, adder-subtractor block, shifter block. Technologies: Verilog HDL, Xilinx ISE, Logisim.
+```
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Basic Electric Circuits: Battery Charger
+• Battery Charger for a 12 V Lead Acid battery made using breadboard. A small circuit to charge NiCd/Li-ion/NiMH batteries. It also featured low charge and full charge indication. The charging would automatically be cut-off once it fully charged.
+```

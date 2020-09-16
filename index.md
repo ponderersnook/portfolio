@@ -2,4 +2,4 @@
 
 Welcome to this corner of the world wide web. In process of building a portfolio website.
 
-[PROJECTS](projects.md)
+[PROJECTS](projects.md) [BLOG](blog)

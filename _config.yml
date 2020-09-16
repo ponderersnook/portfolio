@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome to Ponderer's Nook
 description: This is place where I muse.
-permalink: https://github.com/ponderersnook/portfolio.github.io/blob/gh-pages/projects.md
+permalink: /projects.md/

@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ponderer's Nook
 description: My place for musing.
-permalink: /Home/
+permalink: /Home:index.md

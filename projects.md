@@ -1,6 +1,6 @@
 ## Project stuff:
 
-##### BTech Project: [Laser Propulsion of Nanosat to Low Earth Orbit] (https://github.com/ponderersnook/BTP) 
+##### BTech Project: [Laser Propulsion of Nanosat to Low Earth Orbit] (ponderersnook/BTP) 
 An attempt to integrate control theory to existing laser propulsion literature. 
 
 
@@ -19,4 +19,4 @@ The processor was RISC based, 5 stage, pipelined architecture with 28 instructio
 ##### Basic Electric Circuits: Battery Charger
 Battery Charger for a 12 V Lead Acid battery made using breadboard. A small circuit to charge NiCd/Li-ion/NiMH batteries. It also featured low charge and full charge indication. The charging would automatically be cut-off once it fully charged.
 
-[HOME] (https://github.com/ponderersnook/portfolio.github.io/blob/gh-pages/index.md)
+[HOME](index.md)

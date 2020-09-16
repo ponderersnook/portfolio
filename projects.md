@@ -1,4 +1,4 @@
-##Project stuff:
+## Project stuff:
 
 ##### BTech Project: [Laser Propulsion of Nanosat to Low Earth Orbit] (https://github.com/ponderersnook/BTP) 
 An attempt to integrate control theory to existing laser propulsion literature. 

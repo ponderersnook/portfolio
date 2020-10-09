@@ -1,11 +1,6 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+github:
+  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
 title: Ponderer's Nook
+author: Sakshi Shrivastava
 description: My place for musing.
-
-defaults: 
-  scope:  
-   path: ""
-  values:
-    permalink: /index/
-    
-include: ['_data']

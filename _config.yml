@@ -2,10 +2,8 @@ theme: jekyll-theme-minimal
 title: Ponderer's Nook
 description: My place for musing.
 
-#################
 defaults: 
   scope:  
    path: ""
   values:
     permalink: /Home/
-################

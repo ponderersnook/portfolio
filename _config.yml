@@ -1,4 +1,11 @@
 theme: jekyll-theme-minimal
 title: Ponderer's Nook
 description: My place for musing.
-permalink: /Home:index.md
+
+#################
+defaults: 
+  scope:  
+   path: ""
+  values:
+    permalink: /Home/
+################

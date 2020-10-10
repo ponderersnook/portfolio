@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: Ponderer's Nook
 author: Sakshi Shrivastava
 description: My place for musing.
+
+include:
+   - _data

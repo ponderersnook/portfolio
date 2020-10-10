@@ -1,7 +1,10 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: Ponderer's Nook
 author: Sakshi Shrivastava
 description: My place for musing.
+
+baseurl:  ""  # empty for GitHub User page; "/your-repo" (NO trailing slash) for Project page
+url:  # pretty sure this is auto-set during build, so I'd leave it alone if I were you
 
 include:
    - _data

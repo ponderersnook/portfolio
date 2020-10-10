@@ -1,5 +1,12 @@
-- title: "linkedin"
-  href: "www.linkedin.com/in/sakshi163/"
-  
-- title: "github"
-  href: "github.com/ponderersnook"
+linkedin:
+  id: 'sakshi163'
+  href: 'https://www.linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+ 
+ 
+github:
+  id: 'ponderersnook'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'

@@ -10,3 +10,15 @@ github:
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
+
+instagram:
+  id: '_ponderersnook'
+  href: 'https://www.instagram.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-instagram-square'
+  
+  medium:
+  id: 'ponderersnook'
+  href: 'https://ponderersnook.medium.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-medium-square'

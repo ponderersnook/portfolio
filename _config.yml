@@ -7,4 +7,4 @@ baseurl:  ""  # empty for GitHub User page; "/your-repo" (NO trailing slash) for
 url:  # pretty sure this is auto-set during build, so I'd leave it alone if I were you
 
 include:
-   - _data
+   _data
